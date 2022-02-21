@@ -1,0 +1,106 @@
+{
+  "trips": [
+    {
+      "thumbnail": "../assets/Santorini/Santorini.jpeg",
+      "images": [
+        "../assets/Santorini/Santorini.jpeg",
+        "../assets/Santorini/Santorini2.png",
+        "../assets/Santorini/Santorini3.png",
+        "../assets/Santorini/Santorini4.png"
+      ],
+      "alt": "Santorini",
+      "name": "Santorini, Greece",
+      "slug": "santorini_greece",
+      "button": "View Destination",
+      "description": "Santorini is the most spectacular island in Greece and one of the geologic treasures of Europe. The five villages of Fira, Oia, Imerovigli, Firostefani, and Akrotiri sit atop the caldera and offer spectacular views into the crater created from a 16th-century BC volcanic eruption. What remains is an incredible sight and a magical setting for island hikes, infinity pools, luxury hotels, clifftop wineries, and dreamy sunset dinners. With a land area of 76 square kilometers, Santorini is a little bigger than New York’s island of Manhattan.",
+      "title": "Santorini Beaches",
+      "description1": "Istoria Hotel is the best beach resort in Santorini. A fantastic luxury hotel steps from Perivolos Beach.",
+      "description2": "Santorini beaches are composed of volcanic sand and pebbles, full of rugged charm and often striking landscapes. But they are not at all like the great, white sand beaches Greece is known for. The idyllic best beaches in Greece are located elsewhere.",
+      "description3": "However, swimming in the clear blue water of Santorini is wonderfully refreshing. Since the beaches have coarse sand, there’s little dust to cloud the water.Don’t come to Santorini primarily for the beaches – come for the volcano boat tours, incredible views, wine, hikes, nightlife, and great food. Spend time at the beaches if you have extra days here.",
+      "description4": "Most of the best Santorini beach hotels are located at Kamari, Perissa, and Perivolos Beaches."
+    },
+    {
+      "thumbnail": "../assets/Menton/Menton.jpeg",
+      "images": [
+        "../assets/Menton/menton2.png",
+        "../assets/Menton/menton3.png",
+        "../assets/Menton/menton4.png"
+      ],
+      "alt": "Menton",
+      "name": "Menton, France",
+      "slug": "menton_france",
+      "button": "View Destination",
+      "title": "What to See & Do",
+      "description": "The main activity in Menton is to stroll around enjoying the attractiveness of your surroundings. The medieval Old Town is a meandering network of stone streets that eventually leads to the Basilique Saint-Michel, a magnificent example of baroque architecture. Continue on to the Cemetery which affords a lovely view of the region. Another nice walk is along the beach and the Old Port. Southwest of the Old Port is the Jean-Cocteau Museum, dedicated to the artist who lived in Menton from 1956 to 1958. Another worthwhile museum is the Fine Arts Museum (Musée des Beaux-Arts) located in a 17th-century palace. And don't miss the gardens of Menton; there are a half dozen gardens to explore ranging from exotic species to flowering plants to cactuses.",
+      "title2": "Getting to Menton",
+      "title1": "By Train",
+      "description1": "Menton is on the regional train line that runs from Nice to Ventimiglia. See more about trains on the French Riviera.",
+      "title3": "By Bus",
+      "description2": "The regional bus line, RCA (Rapides Cote d'Azur) links Menton with Nice, Nice Airport and Monaco. See more about buses on the French Riviera.",
+      "title4": "Getting Around Menton",
+      "description3": "Menton has a small but efficient bus network.",
+      "title5": "Tourist Information in Menton",
+      "description4": "The Menton tourist office is in the Palais de l'Europe."
+    },
+    {
+      "thumbnail": "../assets/Hallstatt/Hallstatt.jpeg",
+      "images": [
+        "../assets/Hallstatt/Hallstatt2.png",
+        "../assets/Hallstatt/Hallstatt4.png",
+        "../assets/Hallstatt/Hallstatt3.png"
+      ],
+      "alt": "Hallstatt",
+      "name": "Hallstatt, Austriche",
+      "slug": "hallstatt_austriche",
+      "button": "View Destination",
+      "title1": "If you have 2 days in Hallstatt :",
+      "description1": "Day 1 – Walk around Hallstatt’s beautiful lakeside town. While it won’t take you more than an hour to walk briskly from one end to the other, you’d want to take your time taking in the photogenic houses, checking out the souvenir shops, and strolling along the lively boardwalk. Make sure to go up the Salzberg mountain and visit the 7,000-year-old salt mine.",
+      "description2": "Day 2 – Head to Dachstein and visit the Ice Cave and the 5 Fingers Lookout. After lunch, go for a hike around the area – you can choose easy to moderate trails that are 3 to 18 km long.",
+      "title3": "If you have 5 days in the Lake District :",
+      "description3": "Spend days 1-2 in Hallstatt as above, then make your way to Salzburg, but not without first enjoying the beautiful towns along the way.",
+      "description4": "Day 3 – Time for a road trip! See more of the gorgeous Lake District and drive to Mondsee, St. Wolfgang, St. Gilgen, and Fuschl. Spend an hour or two walking around these charming towns or if you’re visiting in the summer, go for a swim. If you’re continuing your travels to Salzburg, you can use this day to drive from Hallstatt to Salzburg.",
+      "description5": "Days 4-5 – Explore the beautiful and historic city of Salzburg. Visit Mirabell Palace, follow the life and works of Mozart, and walk along the River Salzach. Spend an afternoon in Hohensalzburg Fortress, Central Europe’s biggest fully-preserved castle, and watch the sunset at Mönchsberg for amazing views of the city."
+    },
+    {
+      "thumbnail": "../assets/Positano/Positano.png",
+      "images": [
+        "../assets/Positano/Positano2.png",
+        "../assets/Positano/Positano3.png",
+        "../assets/Positano/Positano4.png",
+        "../assets/Positano/Positano5.png"
+      ],
+      "alt": "Positano",
+      "name": "Positano, Italy",
+      "slug": "positano_italy",
+      "button": "View Destination",
+      "title1": "WHERE TO STAY",
+      "description1": "The place I recommend staying in if you are on a budget and still want to experience the magical views of Positano is Casa Cosenza B&B. Josephine (owner) is the nicest lady and we feel like family every time we go there (stayed there 3 times already). . The rooms are cute and all are facing the sea. One of the most spectacular views of the coasts can be seen from this B&B.",
+      "title3": "Recommendations for day trips",
+      "description2": "Beach and lunch at Da Adolfo (reserve a table for lunch before going). This is probably one of our favourite experiences that we do every time we come here. You have to go to the main dock and wait for a boat with a red fish sign Da Adolfo on top. This boat comes every 30 minutes starting from 10 am to 12:30pm... We usually catch the earlier one and spend the time before lunch on the beach enjoying the sun and swimming.",
+      "description3": "Da Adolfo has their own sun beds which you can rent but we choose to hang on the public beach on the left at the very end as you exit the boat. They have really fresh seafood! The mussels and the mozzarella lemon leaf is their specialty!"
+    }
+  ],
+
+  "works": [
+    {
+      "img": "../assets/train.jpeg",
+      "number": "209,193",
+      "description": "Train Lines via 4,370 Train Operators"
+    },
+    {
+      "img": "../assets/bus.png",
+      "number": "965,812",
+      "description": "Bus Routes via 87,791 Bus Operators"
+    },
+    {
+      "img": "../assets/ship.png",
+      "number": "12,509",
+      "description": "Ferries via 3,771 Ferry Operators"
+    },
+    {
+      "img": "../assets/plane.png",
+      "number": "53,061",
+      "description": "Flight Paths via 1062 Airlines"
+    }
+  ]
+}
